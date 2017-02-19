@@ -3,6 +3,9 @@ R programs for
     "An Introduction to State Space Time Series Analysis,"
     Oxford University Press.
 
+References:
+http://www.ssfpack.com/CKbook.html
+http://radhakrishna.typepad.com/book-summary-and-r-code-1.pdf
     prefixes: 
       n  : iNteger
       g  : numeric (g in "sinGle")
