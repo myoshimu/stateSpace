@@ -4,8 +4,15 @@ R programs for
     Oxford University Press.
 
 References:
+
 http://www.ssfpack.com/CKbook.html
+
 http://radhakrishna.typepad.com/book-summary-and-r-code-1.pdf
+
+http://elsur.jpn.org/ck/
+
+http://sinhrks.hatenablog.com/entry/2015/05/28/071124
+
     prefixes: 
       n  : iNteger
       g  : numeric (g in "sinGle")
